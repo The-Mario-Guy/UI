@@ -49,3 +49,9 @@ TagManager:
   - name: Sprites
     uniqueID: 1127831465
     locked: 0
+  - name: Cursor
+    uniqueID: 1791455863
+    locked: 0
+  - name: Gun
+    uniqueID: 2149039981
+    locked: 0
